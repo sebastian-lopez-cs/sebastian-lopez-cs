@@ -72,4 +72,4 @@ I am working toward my first professional software development opportunity, with
 
 ## Contact
 
-[LinkedIn](YOUR-LINKEDIN-URL)
+[LinkedIn](https://www.linkedin.com/in/sebastian-lopez-cs)
