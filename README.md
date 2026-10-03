@@ -2,56 +2,53 @@
 
 BSc Computing student based in Dublin, Ireland, focused on software development and building practical full-stack applications.
 
-I am developing experience across **C#, .NET, TypeScript, JavaScript, SQL, databases, APIs, testing, Git and CI/CD**, with a particular interest in backend and full-stack software engineering.
+I am developing hands-on experience with **C#, .NET, Blazor, TypeScript, JavaScript, SQL, REST APIs, databases, automated testing, Git and CI/CD**, with a particular interest in backend and full-stack software engineering.
 
-## Current Focus
-
-- Full-stack and backend software development
-- C# / .NET and TypeScript / JavaScript
-- REST APIs and database-driven applications
-- Automated testing and CI/CD
-- Building software around real user requirements
-
-## Featured Projects
+## Currently Building
 
 ### MANÁ Business Management
-Business management application being developed for a small bakery in Monterrey, Mexico.
 
-The project focuses on practical business requirements including order management, expense tracking, sales visibility and monthly reporting.
+Business management web application being developed around the real operational needs of a small bakery in Monterrey, Mexico.
+
+The project focuses on order management, expense tracking, sales visibility and monthly business reporting, with development driven by real user requirements and feedback.
 
 **Technologies:** TypeScript, Node.js, REST APIs
 
 [View repository](https://github.com/sebastian-lopez-cs/mana-business-management)
 
+## Selected Projects
+
+### School Directory Dashboard — Full-Stack Development CA1
+
+Completed Blazor web application that consumes the Edutots School REST API and presents school information through a searchable, interactive and responsive interface.
+
+The application includes API integration with `HttpClient`, JSON deserialization into C# models, reusable Blazor components, real-time search, sorting, loading and error states, refresh functionality and responsive UI design.
+
+**Technologies:** C#, .NET 10, ASP.NET Core, Blazor, Razor Components, HttpClient, LINQ, Bootstrap
+
+[View repository](https://github.com/sebastian-lopez-cs/SchoolDirectoryApp)
+
 ---
 
 ### College Management System
-Role-based web application for managing academic operations including students, faculty, courses, enrolments, attendance, assignments and results.
 
-Includes ASP.NET Core Identity, role-based authorization, Entity Framework Core, automated xUnit testing and GitHub Actions CI.
+Role-based ASP.NET Core MVC application for managing students, faculty, courses, enrolments, attendance, assignments, exams and academic results.
 
-**Technologies:** C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, SQL Server, xUnit, GitHub Actions
+The project includes ASP.NET Core Identity, role-based authorization, Entity Framework Core, SQL Server, automated xUnit testing and a GitHub Actions CI pipeline.
+
+**Technologies:** C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, SQL Server, ASP.NET Core Identity, xUnit, GitHub Actions
 
 [View repository](https://github.com/sebastian-lopez-cs/college-management-system)
-
----
-
-### Adaptive Language Platform
-Full-stack language learning and teaching platform designed around learner progress, personalised practice and teacher visibility.
-
-**Technologies:** C#, .NET, full-stack application architecture
-
-[View repository](https://github.com/sebastian-lopez-cs/adaptive-language-platform)
 
 ## Technical Skills
 
 **Languages:** C#, TypeScript, JavaScript, SQL  
 **Backend:** .NET, ASP.NET Core, Node.js, REST APIs  
+**Frontend:** Blazor, Razor Components, HTML, CSS, JavaScript, TypeScript, Bootstrap  
 **Databases:** SQL Server, PostgreSQL, Entity Framework Core  
-**Frontend:** HTML, CSS, JavaScript, TypeScript  
 **Testing:** xUnit, automated testing  
 **Tools:** Git, GitHub, GitHub Actions, Visual Studio, VS Code  
-**Currently developing:** React, cloud deployment and CI/CD practices
+**Currently developing:** React, cloud deployment and Azure fundamentals
 
 ## Education
 
@@ -61,7 +58,7 @@ Expected graduation: 2027
 
 ## Career Focus
 
-I am working toward my first professional software development opportunity, with particular interest in:
+Working toward my first professional software development experience in areas including:
 
 - Software Engineering Internships
 - Software Development Internships
